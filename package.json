@@ -1,0 +1,21 @@
+{
+  "name": "untitled-folder",
+  "version": "1.0.0",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
